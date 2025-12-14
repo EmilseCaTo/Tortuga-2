@@ -48,3 +48,5 @@ python mini_turtle_oo_task/main.py
 - Independencia: cada `Tortuga()` crea su propio espacio de memoria para `posicion_x`, por lo que las operaciones en una instancia no afectan a las demás.
 
 ## Imagenes 
+<img width="1450" height="368" alt="image" src="https://github.com/user-attachments/assets/a80a478f-6e9e-4886-9d7b-751248dd807c" />
+
